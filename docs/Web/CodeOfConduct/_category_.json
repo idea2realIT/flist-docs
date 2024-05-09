@@ -1,0 +1,8 @@
+{
+  "label": "Code of conduct",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Practices to be followed to contribute code to the repository"
+  }
+}
